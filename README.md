@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabbyWasabi
-- 👀 I’m interested in Information Security role
+- 👀 I’m interested in Information Security 
 - 🌱 I’m currently learning for CompTIA Security+ exam and The Art of Investigation (e-Learning) with Splunk
 - 📫 How to reach me : thisisgabbyb@gmail.com
 - 😄 Pronouns: She/Her
